@@ -11,3 +11,4 @@ Errors that result in a **Not Yet**
 
 Common feedback points:
 * Careful! Is e^0 = 0?
+* What domain do we need to get a full line?
