@@ -2,8 +2,7 @@
 
 ## Checkpoint 2 ##
 
-Overall description of **Success**:
-
+Overall description of **Success**: Student can correctly find the tangent line and substitute into the formula properly. Student can compute an antiderivative of a vector valued function and understands how to apply an IC to find the constant of integration, although arithmetic errors may occur.
 
 Errors that result in a **Not Yet**
 * Giving an equation for part 1 that is not a line
