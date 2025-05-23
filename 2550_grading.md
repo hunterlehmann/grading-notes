@@ -2,6 +2,9 @@
 
 ## Checkpoint 2 ##
 
+Overall description of **Success**:
+
+
 Errors that result in a **Not Yet**
 *
 
