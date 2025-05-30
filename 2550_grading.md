@@ -11,3 +11,14 @@ Errors that result in a **Not Yet**
 Common feedback points:
 * Careful! Is e^0 = 0?
 * What domain do we need to get a full line?
+
+## Celebration of Learning 1 ##
+### G1 ###
+### G2 ###
+### G3 ###
+### G4 ###
+### A1 ###
+
+## Checkpoint 3 ##
+
+Errors that result in a **Not Yet**
