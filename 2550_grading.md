@@ -22,3 +22,5 @@ Common feedback points:
 ## Checkpoint 3 ##
 
 Errors that result in a **Not Yet**
+* Any error in a/b/c except length of unit vectors
+* Errors in d except confusing tangent vector and tangent line
