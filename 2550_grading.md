@@ -25,4 +25,4 @@ Errors that result in a **Not Yet**
 * Forgetting to consider either domain restriction
 * Incorrectly solving the inequality from the square root, except incorrectly excluding zero
 * Sketch that egregiously does not correspond to the domain or is not clear (e.g. no shaded areas or excluded circle is the same width or wider than the band of points)
-** Not quite getting the correct indicators of included or not in the sketch is OK if the correct domain is written in symbols or words elsewhere
+  * Not quite getting the correct indicators of included or not in the sketch is OK if the correct domain is written in symbols or words elsewhere
