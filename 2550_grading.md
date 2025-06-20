@@ -26,3 +26,14 @@ Errors that result in a **Not Yet**
 * Incorrectly solving the inequality from the square root, except incorrectly excluding zero or getting just $$x\leq 2$$
 * Sketch that egregiously does not correspond to the domain or is not clear (e.g. no shaded areas or excluded circle is the same width or wider than the band of points)
   * Not quite getting the correct indicators of included or not in the sketch is OK if the correct domain is written in symbols or words elsewhere
+
+## Checkpoint 6 ##
+
+Errors that result in a **Not Yet**
+* Giving a different plane in 2 than the linearization in 1
+* Using an incorrect formula for linear approximation
+* Failing to plug in $$(1.1,2)$$
+
+Errors that do no result in a **Not Yet**
+* Incorrectly handling the denominator of 5 in taking the derivative (e.g. getting $$f_x=\dfrac{10x}{x^2+y^2}$$ instead of $$f_x=\frac{2x}{x^2+y^2}$$)
+   * Do leave a comment on this mistake though
